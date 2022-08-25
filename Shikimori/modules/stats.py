@@ -141,7 +141,7 @@ def stats(update, context):
                 [
                   [                  
                        InlineKeyboardButton(
-                                text=" ⚜️ σғғ - тσριᴄ ⚜️ ",
+                                text="⚜️ σғғ - тσριᴄ ⚜️",
                                 url="https://t.me/+mWD5FK2wdps2MDc1"),
                      ] 
                 ]
